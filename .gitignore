@@ -159,3 +159,6 @@ npm-debug.log
 
 # Ignore generated credentials from google-github-actions/auth
 gha-creds-*.json
+
+# Vagrant
+.vagrant
